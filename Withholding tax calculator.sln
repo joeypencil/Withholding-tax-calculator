@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Withholding tax calculator", "Withholding tax calculator\Withholding tax calculator.csproj", "{55DD8C53-727A-4263-B920-06BE76EB4546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DD8C53-727A-4263-B920-06BE76EB4546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DD8C53-727A-4263-B920-06BE76EB4546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DD8C53-727A-4263-B920-06BE76EB4546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DD8C53-727A-4263-B920-06BE76EB4546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E65FA2-5783-4993-9363-9E716201A284}
+	EndGlobalSection
+EndGlobal
